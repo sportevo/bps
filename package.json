@@ -1,0 +1,24 @@
+{
+  "name": "bps",
+  "version": "0.0.1",
+  "description": "bot sportevo",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bluebird": "^3.5.1",
+    "botpress": "1.x",
+    "botpress-messenger": "^2.2.11",
+    "botpress-web": "1.x",
+    "lodash": "^4.17.5",
+    "react": "^16.2.0"
+  },
+  "scripts": {
+    "start": "botpress start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">= 8.0"
+  },
+  "author": "Samuele Ligorio",
+  "license": "Botpress Proprietary License"
+}
